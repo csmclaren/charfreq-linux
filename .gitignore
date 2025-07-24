@@ -1,0 +1,4 @@
+.DS_Store
+.venv
+/input/linux-6.12.40.tar.xz
+uv.lock
